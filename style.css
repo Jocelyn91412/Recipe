@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+body{
+    background-color: #fff6c0;
+    color:#B7D9B1;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align: center;
+}
+
+.container {
+  background-color:#fff6c0; 
+}
+
+.remove-bg {
+  mix-blend-mode: multiply; 
+}
