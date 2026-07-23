@@ -24,11 +24,12 @@ p{
   background-color:#fff6c0; 
   width:25px;
 }
+.remove-bg.{
+mix-blend-mode:multiply;
+}
 .img{
     width:80px;
     text-align:center;
 }
 
-.remove-bg {
-  mix-blend-mode: multiply; 
-}
+
