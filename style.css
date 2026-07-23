@@ -1,4 +1,4 @@
-h1{
+    h1{
     text-align: center;
 }
 h2{
@@ -14,22 +14,19 @@ body{
     background-color: #fff6c0;
     color:#B7D9B1;
     font-family: 'Courier New', Courier, monospace;
-    text-size:20px;
+    font-size:20px;
 }
 p{
     text-align: center;
 }
 
 .container {
-  background-color:#fff6c0; 
-  width:25px;
+  background-color:#fff6c0;
 }
-.remove-bg.{
+.remove-bg{
 mix-blend-mode:multiply;
 }
-.img{
-    width:80px;
-    text-align:center;
-}
-
-
+.center {
+text-align:center;
+  
+  }
